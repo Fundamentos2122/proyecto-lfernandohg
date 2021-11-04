@@ -12,3 +12,17 @@
     background:white;
     border-radius: 10px;
 }
+
+.btn-entrar{
+    background: goldenrod;
+    color: #333;
+    margin: auto;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-family: 'Benne', serif;
+    font-size: 17px;
+}
+
+.btn-entrar:active{
+    transform: scale(1.05);
+}
